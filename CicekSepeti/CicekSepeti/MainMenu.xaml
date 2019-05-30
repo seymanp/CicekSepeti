@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CicekSepeti.MainMenu">
+    <ContentPage.Content>
+        <Grid>
+            <StackLayout BackgroundColor="White" WidthRequest="240">
+                <Grid>
+                    <Label Font="Bold" VerticalTextAlignment="Center" Text="ARADIĞINIZ TÜM ÜRÜNLER"/>
+                </Grid>
+            </StackLayout>
+        </Grid>
+       
+    </ContentPage.Content>
+</ContentPage>
